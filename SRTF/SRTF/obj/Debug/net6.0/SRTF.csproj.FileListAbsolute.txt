@@ -1,0 +1,15 @@
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\bin\Debug\net6.0\SRTF.exe
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\bin\Debug\net6.0\SRTF.deps.json
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\bin\Debug\net6.0\SRTF.runtimeconfig.json
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\bin\Debug\net6.0\SRTF.dll
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\bin\Debug\net6.0\SRTF.pdb
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\obj\Debug\net6.0\SRTF.csproj.AssemblyReference.cache
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\obj\Debug\net6.0\SRTF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\obj\Debug\net6.0\SRTF.AssemblyInfoInputs.cache
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\obj\Debug\net6.0\SRTF.AssemblyInfo.cs
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\obj\Debug\net6.0\SRTF.csproj.CoreCompileInputs.cache
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\obj\Debug\net6.0\SRTF.dll
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\obj\Debug\net6.0\refint\SRTF.dll
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\obj\Debug\net6.0\SRTF.pdb
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\obj\Debug\net6.0\SRTF.genruntimeconfig.cache
+C:\Users\Hamed\Desktop\OS_Final\SRTF\SRTF\SRTF\obj\Debug\net6.0\ref\SRTF.dll
